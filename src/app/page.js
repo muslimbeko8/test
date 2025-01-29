@@ -1,8 +1,8 @@
 const Home = () => {
   return (
-    <div>
-      <h1>Salom, bu Telegram Web App!</h1>
-      <p>Telegram Web App'ga xush kelibsiz.</p>
+    <div className="flex justify-center items-center h-screen">
+      <h1>nechida ketamiz bugun</h1>
+      <p>abdurazzoq aka</p>
     </div>
   );
 };
